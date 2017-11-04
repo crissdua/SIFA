@@ -1,0 +1,40 @@
+<payment>
+		<document>  	
+			<tipodepago>CHQ</tipodepago>
+			<pagoacuenta>N</pagoacuenta>		
+			<docnum>910</docnum>          							
+			<doctype>C</doctype>		  							
+			<docdate>20171103</docdate>	  							
+			<cardcode>ASEG1</cardcode>   							
+			<doccurrency>QTZ</doccurrency>							
+			<remarks>Remarks</remarks>								
+			<series>17</series>										
+			<cashsum />								
+			<cashaccount />								
+			<transferaccount />		
+			<transfersum />							
+			<transferreference />	
+			<document_lines>
+				<line>
+					<serie>TZ9</serie>
+					<docnum>53563</docnum>						
+					<invoicetype>13</invoicetype>				
+					<sumapplied>40</sumapplied>				
+				</line>
+				<pay>
+					  <checknumber />
+					  <CountryCode>GT</CountryCode> 
+					  <bankcode>BAM</bankcode> 
+					  <accounttnum>11410011-00-00</accounttnum> 
+					  <checksum>260.17</checksum> 
+					  <checkaccount>_SYS00000000876</checkaccount>  	
+					<creditcard>1</creditcard>				
+					<creditcardnumber>12315497</creditcardnumber>			
+					<cardvaliduntil>20171231</cardvaliduntil>		
+					<vouchernum>123457487</vouchernum>						
+					<creditsum>10</creditsum>						
+				</pay>
+			</document_lines>
+		</document>	
+		
+</payment>  

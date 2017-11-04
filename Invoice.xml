@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<invoice>
+  <document>
+    <doctype>I</doctype>
+    <cardcode>C14-1</cardcode>
+    <numatcard>refsifa</numatcard>
+    <cursource>QTZ</cursource>
+    <docdate>20171101</docdate>
+    <docduedate>20171101</docduedate>
+    <taxdate>20171101</taxdate>
+    <series>4</series>
+    <discprcnt>0.00</discprcnt>
+    <u_paciente>P14-42</u_paciente>
+    <u_seriedoc>CA-05</u_seriedoc>
+    <u_docnum>782</u_docnum>
+    <docstatus>I</docstatus>
+    <u_cod_med>codmed</u_cod_med>
+    <u_procede>proced</u_procede>
+    <u_sub_procedencia>subproced</u_sub_procedencia>
+    <u_aseg>aseg</u_aseg>
+    <u_afilia>afilia</u_afilia>
+	<u_f_factura>fecha</u_f_factura>
+	<no_caja>no_caja</no_caja>
+	<no_transaccion>no_transaccion</no_transaccion>
+	<emp_autoriza_desc>emp_autoriza_desc</emp_autoriza_desc>
+	<porce_desc>porce_desc</porce_desc>
+	<hoja_referencia>hoja_referencia</hoja_referencia>
+	<cod_promo>cod_promo</cod_promo>
+	<cod_empleado>cod_empleado</cod_empleado>
+	<cod_cliente_cc>cod_cliente_cc</cod_cliente_cc>
+	<cod_tipocredito>cod_tipocredito</cod_tipocredito>
+	<no_pagos>no_pagos</no_pagos>
+	<origen_generacion>origen_generacion</origen_generacion>
+	<cod_cajero>cod_cajero</cod_cajero>
+	<cod_usuariogenera>cod_usuariogenera</cod_usuariogenera>
+	<aplicacredito>aplicacredito</aplicacredito>
+	<porcentajeiva>porcentajeiva</porcentajeiva>
+	<escopago>escopago</escopago>
+	<porcentajecobertura>porcentajecobertura</porcentajecobertura>
+	<codigocobertura>codigocobertura</codigocobertura>
+	<noautorizacion>noautorizacion</noautorizacion>
+    <document_lines>
+      <line>
+        <itemcode>80.19</itemcode>
+        <quantity>1</quantity>
+        <taxcode>exe</taxcode>
+        <priceafvat>37.44</priceafvat>
+        <gtotal>37.44</gtotal>
+        <ocrcode>DP3</ocrcode>
+        <ocrcode2>CA5</ocrcode2>
+        <ocrcode3>ES1</ocrcode3>
+        <ocrcode4 />
+        <ocrcode5 />
+        <discprcnt>0.00</discprcnt>
+      </line>
+      <line>
+        <itemcode>82465</itemcode>
+        <quantity>1</quantity>
+        <taxcode>exe</taxcode>
+        <priceafvat>33.80</priceafvat>
+        <gtotal>33.80</gtotal>
+        <ocrcode>DP3</ocrcode>
+        <ocrcode2>CA5</ocrcode2>
+        <ocrcode3>ES1</ocrcode3>
+        <ocrcode4 />
+        <ocrcode5 />
+        <discprcnt>0.00</discprcnt>
+      </line>
+      <line>
+        <itemcode>83718</itemcode>
+        <quantity>1</quantity>
+        <taxcode>exe</taxcode>
+        <priceafvat>36.40</priceafvat>
+        <gtotal>36.40</gtotal>
+        <ocrcode>DP3</ocrcode>
+        <ocrcode2>CA5</ocrcode2>
+        <ocrcode3>ES1</ocrcode3>
+        <ocrcode4 />
+        <ocrcode5 />
+        <discprcnt>0.00</discprcnt>
+      </line>
+      <line>
+        <itemcode>83721</itemcode>
+        <quantity>1</quantity>
+        <taxcode>exe</taxcode>
+        <priceafvat>33.80</priceafvat>
+        <gtotal>33.80</gtotal>
+        <ocrcode>DP3</ocrcode>
+        <ocrcode2>CA5</ocrcode2>
+        <ocrcode3>ES1</ocrcode3>
+        <ocrcode4 />
+        <ocrcode5 />
+        <discprcnt>0.00</discprcnt>
+      </line>
+      <line>
+        <itemcode>84478</itemcode>
+        <quantity>1</quantity>
+        <taxcode>exe</taxcode>
+        <priceafvat>38.48</priceafvat>
+        <gtotal>38.48</gtotal>
+        <ocrcode>DP3</ocrcode>
+        <ocrcode2>CA5</ocrcode2>
+        <ocrcode3>ES1</ocrcode3>
+        <ocrcode4 />
+        <ocrcode5 />
+        <discprcnt>0.00</discprcnt>
+      </line>
+    </document_lines>
+  </document>
+</invoice>

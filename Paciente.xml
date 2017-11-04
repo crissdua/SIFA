@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<paciente>
+  <document>
+    <cardcode>C14-5</cardcode>
+    <document_lines>
+      <line>
+        <cardcode>P14-36</cardcode>
+        <name>P14-36</name>
+        <firstname>MARIA</firstname>
+        <middlename>ANTONIETA</middlename>
+        <lastname>ROJAS REYNOSO </lastname>
+        <address>DIAGONAL I 0-11 0 BILVAO</address>
+        <phone1>58434020</phone1>
+        <e_Mail />
+        <dateofbirth>19630519</dateofbirth>
+        <gender>F</gender>
+        <profession />
+        <cityofbirth>-1</cityofbirth>
+        <active>Y</active>
+        <remarks1 />
+        <remarks2>793710-5</remarks2>
+      </line>
+      <line>
+        <cardcode>P14-37</cardcode>
+        <name>P14-37</name>
+        <firstname>MIRNA</firstname>
+        <middlename>EDILMA</middlename>
+        <lastname>OROZCO BARRIOS </lastname>
+        <address>1ERA AVENIDA 20 0 RESIDEBNCUIALES VILLA DE VALENCIA</address>
+        <phone1>53119022</phone1>
+        <e_Mail />
+        <dateofbirth>19671224</dateofbirth>
+        <gender>F</gender>
+        <profession />
+        <cityofbirth>-1</cityofbirth>
+        <active>Y</active>
+        <remarks1 />
+        <remarks2>793710-5</remarks2>
+      </line>
+      <line>
+        <cardcode>P14-38</cardcode>
+        <name>P14-38</name>
+        <firstname>MILDRED</firstname>
+        <middlename>ROSSANA</middlename>
+        <lastname>CALDERON RAMIREZ PARADA</lastname>
+        <address>3ERA CALLE 0-53 0 BILVAO</address>
+        <phone1>78723636.56164540</phone1>
+        <e_Mail />
+        <dateofbirth>19630913</dateofbirth>
+        <gender>F</gender>
+        <profession />
+        <cityofbirth>-1</cityofbirth>
+        <active>Y</active>
+        <remarks1 />
+        <remarks2>793710-5</remarks2>
+      </line>
+      <line>
+        <cardcode>P14-53</cardcode>
+        <name>P14-53</name>
+        <firstname>MILDA</firstname>
+        <middlename>JOSEFINA</middlename>
+        <lastname>PEREZ DOMINGUEZ DUBON</lastname>
+        <address>. 4-110 3 SANTA MARTA</address>
+        <phone1>54141383</phone1>
+        <e_Mail />
+        <dateofbirth>19661020</dateofbirth>
+        <gender>F</gender>
+        <profession />
+        <cityofbirth>-1</cityofbirth>
+        <active>Y</active>
+        <remarks1 />
+        <remarks2>793710-5</remarks2>
+      </line>
+    </document_lines>
+  </document>
+</paciente>
