@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cliente>
+  <document>
+    <series />
+    <cardtype>C</cardtype>
+    <cardcode>C14-1</cardcode>
+    <cardname>ADMINISTRADORA Y PROMOTORA DE HOSPITALES, S.A.</cardname>
+    <cardfname>ADMINISTRADORA Y PROMOTORA DE HOSPITALES, S.A.</cardfname>
+    <groupcode>100</groupcode>
+    <currency>QTZ</currency>
+    <phone1 />
+    <cellular />
+    <fax />
+    <e_mail />
+    <intrntsite />
+    <industry_c>-1</industry_c>
+    <alliasname />
+    <blbllocnum />
+    <blockcomm>N</blockcomm>
+    <channlbp />
+    <document_line>
+      <line>
+        <address>6 AVENIDA 10-63 ZONA 9 </address>
+        <address2 />
+        <address3 />
+        <street />
+        <block />
+        <city />
+        <zipCode />
+        <county />
+        <state />
+        <streetNo />
+        <building />
+        <blbllocnum />
+      </line>
+    </document_line>
+    <password>7681672-9</password>
+  </document>
+</cliente>
